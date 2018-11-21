@@ -1,6 +1,5 @@
-plugins {
-    id 'java'
-}
+apply plugin: 'java'
+apply plugin: 'maven'
 
 group 'io.github.pasqlisena'
 version '1.0'
